@@ -1,0 +1,4 @@
+Tool that calculates profits of monthly savings based on historical data. 
+
+Usage:
+python calculate.py [start date: year-month-day] [end date: year-month-day] [data file] [initial investement] [monthly investement]
